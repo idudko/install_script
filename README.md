@@ -1,5 +1,7 @@
 # install_script
-Very old installation shell script for software based on:
+This is very old script dated 2009 year and nowadays many thing i'll write in another way ;)
+
+Installation shell script for software based on:
 * Java 
 * JBoss
 * PostgreSQL
