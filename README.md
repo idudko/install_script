@@ -11,3 +11,5 @@ Script using Dialog utility which help to create nice user interfaces in shell s
 Dialog rpm package and archive intall.tar.gz (which contains other necessary packages and backups) locates in the body of this script and extracted in runtime.
 
 Software repositories do not used in this script, because script used with minial CentOS install and without Internet access. 
+
+This script wroted in cooperation with [Vyacheslav Gmir] (https://github.com/GmirV)
